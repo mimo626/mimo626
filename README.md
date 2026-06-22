@@ -17,16 +17,20 @@
 </div>
 
 ---
-
 <div align="center">
-  
+
 <table>
 <tr>
+
 <td width="55%" align="center">
 
 ### 📈 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimo626&theme=radical)
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=mimo626&theme=radical"/>
+
+<br>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mimo626&show_icons=true&theme=radical"/>
 
 </td>
 
@@ -34,19 +38,21 @@
 
 ### 💡 About Me
 
-- 🌱 Spring Boot 기반 백엔드 개발
-- 📱 Flutter 모바일 앱 개발 경험
-- ☕ Java · JPA · MySQL 활용
-- 🤖 AI Agent 및 LLM 학습 중
-- 🚀 새로운 기술을 빠르게 학습하고 적용하는 것을 좋아합니다
+- ☕ Spring Boot 기반 백엔드 개발을 주력으로 학습하고 있습니다.
+- 📱 Flutter와 Android를 활용한 모바일 애플리케이션 개발 경험이 있습니다.
+- 🔄 백엔드와 클라이언트를 함께 이해하며 사용자 중심 서비스를 만드는 것을 좋아합니다.
+- 🤖 AI Agent 및 LLM 기반 서비스 개발에 관심을 가지고 학습 중입니다.
+
+<br>
+
+### 📚 Most Used Languages
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimo626&layout=compact&theme=radical"/>
 
 </td>
+
 </tr>
 </table>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mimo626&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimo626&layout=compact&theme=radical"/>
 
 </div>
 
