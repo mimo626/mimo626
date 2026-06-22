@@ -1,119 +1,48 @@
-## Hi there 👋
-# Welcome to Dillinger
-
-A clean, distraction-free markdown editor. Type on the left, see the rendered output on the right.
-
----
-
-## Text Formatting
-
-Markdown makes it easy to format text. You can write in **bold**, *italic*, or ~~strikethrough~~. Combine them for ***bold italic*** text. Use `inline code` for technical terms.
-
-## Lists
-
-Unordered lists use dashes, asterisks, or plus signs:
-
-- Import files from GitHub, Dropbox, or Google Drive
-- Export to Markdown, HTML, or PDF
-- Drag and drop files directly into the editor
-
-Ordered lists are numbered automatically:
-
-1. Write your markdown
-2. Preview the rendered output
-3. Export or save to the cloud
-
-Nested lists work too:
-
-- Cloud integrations
-  - GitHub repositories
-  - Dropbox folders
-  - Google Drive files
-  - OneDrive and Bitbucket
-- Local features
-  - Auto-save to browser storage
-  - Image paste from clipboard
-
-## Task Lists
-
-- [x] Set up the editor
-- [x] Write some markdown
-- [ ] Connect a cloud service
-- [ ] Export the finished document
-
-## Links and Images
-
-Link to any page with [inline links](https://dillinger.io) or use [reference-style links][dillinger].
-
-Images use a similar syntax:
-
-![Placeholder](https://via.placeholder.com/600x200/2B2F36/35D7BB?text=Your+Image+Here)
-
-[dillinger]: https://dillinger.io
-
-## Blockquotes
-
-> The art of writing is the art of discovering what you believe.
->
-> — Gustave Flaubert
-
-Blockquotes can contain other markdown elements:
-
-> **Tip:** Use `Cmd+Shift+Z` to enter zen mode for distraction-free writing.
-
-## Code
-
-Fenced code blocks support syntax highlighting:
-
-```javascript
-function greet(name) {
-  return `Hello, ${name}.`;
-}
-
-console.log(greet("world"));
-```
-
-```python
-def fibonacci(n):
-    a, b = 0, 1
-    for _ in range(n):
-        a, b = b, a + b
-    return a
-```
-
-## Tables
-
-| Shortcut | Action |
-|----------|--------|
-| `⌘ ⇧ Z` | Toggle zen mode |
-| `Escape` | Exit zen mode |
-| `?` | Keyboard shortcuts |
-
-Tables support alignment:
-
-| Feature | Status | Notes |
-|:--------|:------:|------:|
-| Markdown editing | Active | Monaco-powered |
-| Live preview | Active | Scroll-synced |
-| Cloud sync | Available | 5 providers |
-| PDF export | Available | Server-rendered |
-
-## Footnotes
-
-Dillinger supports extended markdown syntax including footnotes[^1] and definition lists.
-
-[^1]: Footnotes appear at the bottom of the rendered preview.
-
-## Math
-
-Inline math: $E = mc^2$
-
-Block equations:
-
-$$
-\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
-$$
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" align="center">
+      <h2>🐣 이름 🐣</h2>
+      <br>
+      <a href="https://github.com/본인아이디">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+      </a>
+      <a href="https://solved.ac/본인아이디">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=본인아이디"/>
+      </a>
+      <br><br>
+      🍏 <a href="https://velog.io/@본인아이디">블로그이름</a> 🍏 <a href="https://velog.io/@본인아이디">https://velog.io/@본인아이디</a><br>
+      🍊 <a href="https://본인아이디.tistory.com">블로그이름</a> 🍊 <a href="https://본인아이디.tistory.com">https://본인아이디.tistory.com</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/본인아이디">
+        <img src="https://github-readme-stats.vercel.app/api?username=본인아이디&theme=dark&show_icons=true"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-*Your documents save automatically. Start writing.*
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/본인아이디">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&theme=dark&layout=compact"/>
+      </a>
+    </td>
+    <td width="50%" align="left">
+      <h3>Once I've Used ✏️</h3>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Androidstudio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    </td>
+  </tr>
+</table>
