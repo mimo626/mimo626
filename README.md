@@ -19,6 +19,30 @@
 ---
 
 <div align="center">
+  
+<table>
+<tr>
+<td width="55%" align="center">
+
+### 📈 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimo626&theme=radical)
+
+</td>
+
+<td width="45%" valign="top">
+
+### 💡 About Me
+
+- 🌱 Spring Boot 기반 백엔드 개발
+- 📱 Flutter 모바일 앱 개발 경험
+- ☕ Java · JPA · MySQL 활용
+- 🤖 AI Agent 및 LLM 학습 중
+- 🚀 새로운 기술을 빠르게 학습하고 적용하는 것을 좋아합니다
+
+</td>
+</tr>
+</table>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mimo626&show_icons=true&theme=radical"/>
 
@@ -88,31 +112,3 @@
 <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge"/>
 
 </div>
-
----
-
-## 📈 GitHub Activity & 💡 About Me
-
-<table>
-<tr>
-<td width="55%" align="center">
-
-### 📈 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimo626&theme=radical)
-
-</td>
-
-<td width="45%" valign="top">
-
-### 💡 About Me
-
-- 🌱 Spring Boot 기반 백엔드 개발
-- 📱 Flutter 모바일 앱 개발 경험
-- ☕ Java · JPA · MySQL 활용
-- 🤖 AI Agent 및 LLM 학습 중
-- 🚀 새로운 기술을 빠르게 학습하고 적용하는 것을 좋아합니다
-
-</td>
-</tr>
-</table>
