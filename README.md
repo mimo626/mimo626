@@ -88,17 +88,26 @@
 <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge"/>
 
 </div>
----
+## 🙋 About Me
 
-## 📈 GitHub Activity
+<table>
+<tr>
+<td width="55%">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimo626&theme=radical)
 
----
+</td>
 
-## 💡 About Me
+<td width="45%">
 
-- 🌱 백엔드 개발 공부 중
-- 🤖 AI Agent 및 LLM 프로젝트 학습
+### 👋 Hello!
+
+- 🌱 Spring Boot 기반 백엔드 개발
 - 📱 Flutter 앱 개발 경험
-- ☕ Java / Spring Boot 기반 개발
+- ☕ Java · JPA · MySQL 활용
+- 🤖 AI Agent 및 LLM 학습 중
+- 🚀 사용자 중심 서비스를 만드는 것을 좋아합니다
+
+</td>
+</tr>
+</table>
