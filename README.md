@@ -72,7 +72,7 @@
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 <div align="center">
 
